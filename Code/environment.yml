@@ -1,0 +1,14 @@
+name: ce903
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7.*
+  - numpy
+  - pandas
+  - tensorflow
+  - seaborn
+  - matplotlib
+  - jupyter
+  - scipy
+  - scikit-learn
+  - pickle5
